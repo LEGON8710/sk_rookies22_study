@@ -1,2 +1,2 @@
-# sk_rookies22_study
-sk rookies 학습 저장
+## test
+    this is a test.
